@@ -75,7 +75,7 @@
   <a href="https://www.linkedin.com/in/aida-douaibia-438872318/" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/128/145/145807.png" width="50" height="50" alt="LinkedIn"/>
   </a>
-  <a href="a_douaibia@eestin.dz" target="_blank">
+  <a href="a_douaibia@estin.dz" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/128/281/281769.png" width="50" height="50" alt="Email"/>
   </a>
   
